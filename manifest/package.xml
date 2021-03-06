@@ -25,7 +25,12 @@
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
+        <members>similarBoats</members>
+        <members>boatDetailTabs</members>
+        <members>boatAddReviewForm</members>
+        <members>boatReviews</members>
         <members>boatMap</members>
+        <members>fiveStarRating</members>
         <name>LightningComponentBundle</name>
     </types>
     <types>
