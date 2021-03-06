@@ -1,4 +1,4 @@
-For now this repository contains code upto 7 challenges only.
+For now this repository contains code upto  10 challenges only.
 
 # Salesforce App
 
